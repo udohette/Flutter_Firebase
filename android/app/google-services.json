@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582812334863",
+    "project_id": "gopediafirebase-5a9ee",
+    "storage_bucket": "gopediafirebase-5a9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582812334863:android:8790ce1e7ab2d492011c7a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582812334863-gnlcq4jpuoabjs97q34tappmch0159lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFCNNdPKAvFwZVZYmVF50gTejpmPvmAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582812334863-gnlcq4jpuoabjs97q34tappmch0159lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
